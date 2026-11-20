@@ -132,6 +132,17 @@ python infer.py --input path/to/image.jpg --checkpoint checkpoints/best_model.pt
 ```
 
 ---
+## Interactive Image Comparison Viewer
+
+The project includes an interactive comparison viewer for underwater image enhancement.
+
+### Launch
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+
 
 ## Results
 
